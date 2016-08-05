@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # Script Setup
-server=http://someserver.com/npr/me
-nprurl=http://www.npr.org/programs/morning-edition/
+server=https://npr.hirozed.com/[show]
+nprurl=[nprurl]
 
 # Feed Setup
-feedTitle="NPR Morning Edition"
-feedDescription="NPR Morning Edition Podcast"
+feedTitle=
+feedDescription=
 
 
